@@ -1,0 +1,3 @@
+* `prototype` : son funciones que se utilizan en una determinada clase y que todos los objetos de la
+    la misma lo entienden.
+* _Constructors_ (de Clases): es un 
