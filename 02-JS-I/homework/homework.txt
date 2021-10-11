@@ -1,0 +1,9 @@
+variable: una variable es un espacio en el programa que nos permite almacenar diferentes tipos de datos
+Strings: es un tipo de variable que almacena texto entre "" o ''
+Funciones (argumentos, `return`): funcion es una secuencia de codigos para obtener un resultado,
+    el argumento es aquello que le pasamos a la funcion y el return es lo que nos devuelve esa funcion 
+    y por lo tanto la finalizacion de la misma
+Declaraciones 'if': la declaracion if es la toma de decicion en un programa que si se la "pasa" se
+    aplica la funcion y de no activarse puede o aplicarse otra funcion o simplemente pasarla
+Valores booleanos: los valores booleanos son la forma en que el programa verifica si ocurre o no algo
+siendo el True = si y el false = no.
