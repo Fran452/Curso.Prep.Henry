@@ -1,0 +1,2 @@
+Arrays: en español arreglo es una lista de cosas. esta lista se puede modifcar (tanto agregar como
+    quitar cosas).
