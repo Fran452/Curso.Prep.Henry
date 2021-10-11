@@ -1,0 +1,5 @@
+`for`: for es una funcion que repite determinadaveces una linea de codigo
+`&&`: Este funcion se utiliza para comparar funciones booleanas siendo esta el "y", 
+    que solo es true si todos los valores son true
+`||`: Esta funcion booleana se utiliza como "o" que es true cuando alguna funcion es true
+`!` : Esta funcion es la de negacion que solo es verdadera si la funcion es false.
