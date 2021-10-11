@@ -1,0 +1,10 @@
+Objetos: los objetos son extructuras como las Arrays pero en la que cada dato tiene su nombre espesifico
+Propiedades: las propiedades son la asociacion entre el nombre y el valor dentro de un objeto.
+Métodos: los metodos son las funciones almacenadas dentro de un objeto.
+Bucle `for…in`: se utiliza esta funcion para recorrer todas las propiedades de un objeto.
+Notación de puntos vs notación de corchetes: la principal diferencia que la notacion de punto el valor
+    no se puede pasar por referencia cosa que en el de corchetes si por ejemplo 
+    val a = "hola" objeto.a: en este ejemplo el objeto esta buscando el la propiedad a dentro de si no la
+        propiedad "hola"
+    val a = "hola"  objeto[a] : en este ejemplo el objeto esta buscando la propiedad hola ya que anteriormente
+        definomos a "a" como "hola".
